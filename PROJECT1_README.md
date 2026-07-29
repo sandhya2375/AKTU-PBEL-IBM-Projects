@@ -342,23 +342,19 @@ Project 1: Salary Prediction/
 ## 🔧 Hyperparameters Used
 
 ### Random Forest:
-```
 RandomForestRegressor(
     n_estimators=100,      # 100 decision trees
     max_depth=15,          # Tree depth limit
     random_state=42        # Reproducibility
 )
-```
 
 ### Gradient Boosting:
-```
 GradientBoostingRegressor(
     n_estimators=100,      # 100 boosting rounds
     learning_rate=0.1,     # How fast it learns
     max_depth=5,           # Tree depth
     random_state=42        # Reproducibility
 )
-```
 
 ---
 
@@ -416,9 +412,10 @@ Libraries:
 ## 📞 Questions & Support
 
 For queries or suggestions:
-- GitHub Issues: Create an issue
-- Email: Contact for support
-- LinkedIn: Professional profile
+- GitHub Issues:github.com/sandhya2375
+- Email: sandhyakumari16001@gmail.com
+- LinkedIn: linkedin.com/in/sandhya-kumari-466682312
+
 
 ---
 
@@ -432,5 +429,3 @@ Educational Purpose Only
 **🎊 Thank you for reviewing this project!**
 
 Made with ❤️ by Sandhya
-
----

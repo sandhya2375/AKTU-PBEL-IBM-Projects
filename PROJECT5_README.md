@@ -798,9 +798,9 @@ CV scores consistent (±0.56%):
 ## 📞 Questions & Support
 
 For queries or suggestions:
-- GitHub Issues: Create an issue
-- Email: your.email@gmail.com
-- LinkedIn: linkedin.com/in/your-profile
+- GitHub Issues:github.com/sandhya2375
+- Email: sandhyakuamri16001@gmail.com
+- LinkedIn:linkedin.com/in/sandhya-kumari-466682312
 
 ---
 
@@ -815,4 +815,3 @@ Educational Purpose Only
 
 Made with ❤️ by Sandhya
 
----
